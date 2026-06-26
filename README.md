@@ -1,4 +1,3 @@
-
 # AI Safety Agent Runtime
 
 Industrial AI Safety Operating Runtime for:
