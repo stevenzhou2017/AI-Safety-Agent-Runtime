@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message Event {
+  uint64 ts = 1;
+  string type = 2;
+  string source = 3;
+  string payload = 4;
+}
